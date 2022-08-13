@@ -50,6 +50,9 @@ body {
 .phone-link:focus {
   color: var(--accent-color);
 }
+.link.current {
+  color: var(--accent-color);
+}
 .footer {
   background-color: var(--secondary-background);
   color: var(--tertiary-text-color);
